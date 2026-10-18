@@ -1,8 +1,8 @@
 # Kamil Gwóźdź
 
-I'm interested in data engineering, especially in how data platforms are built: lakehouse and streaming architectures and the infrastructure underneath them. Lately I'm also interested in how AI tools like Claude change the way these systems get built.
+I work in data engineering. I'm especially interested in modern data platforms, cloud infrastructure, lakehouse architectures and streaming. The projects here are where I try things out and learn by building.
 
-The repos here are where I try those ideas out, mostly on Azure Databricks and GCP. I use Python, SQL, Spark, Terraform and GitHub Actions the most.
+I work with Python, SQL, dbt, Airflow, Azure and Databricks. I also have some experience with AWS, GCP, Terraform and Spark.
 
 ## Projects
 
