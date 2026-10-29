@@ -1,6 +1,6 @@
 # Kamil Gwóźdź
 
-I work in data engineering. I'm especially interested in modern data platforms, cloud infrastructure, lakehouse architectures and streaming. The projects here are where I try things out and learn by building.
+I work in data and analytics. I'm especially interested in modern data platforms, cloud infrastructure, lakehouse architectures and streaming. The projects here are where I try things out and learn by building.
 
 I work with Python, SQL, dbt, Airflow, Azure and Databricks. I also have some experience with AWS, GCP, Terraform and Spark.
 
